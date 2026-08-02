@@ -71,7 +71,4 @@ Mobile responsiveness is included for all device sizes.
 
 All rights reserved © 2025 Tech Sensies
 
----
 
-**Contact**: techsensies@gmail.com  
-**Launch Date**: Coming 27 July 2025
