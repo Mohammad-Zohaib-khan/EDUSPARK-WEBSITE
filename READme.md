@@ -65,10 +65,6 @@ The page is optimized for modern browsers including:
 - Safari (latest)
 - Edge (latest)
 
-Mobile responsiveness is included for all device sizes.
 
-## License
-
-All rights reserved © 2025 Tech Sensies
 
 
