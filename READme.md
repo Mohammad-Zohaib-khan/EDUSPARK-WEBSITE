@@ -50,17 +50,7 @@ Simply open the `index.html` file in any modern browser. All interactive element
 
 ## Customization
 
-To customize the content:
 
-1. Update the hero section text in the HTML
-2. Modify feature items in the "Why EduSpark" and "Features" sections
-3. Change the contact email by editing the mailto link
-4. Adjust colors in the `:root` CSS variables
-
-## Browser Support
-
-The page is optimized for modern browsers including:
-- Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
